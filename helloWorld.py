@@ -4,3 +4,4 @@ print("Ok")
 
 print("All good")
 
+print("end of world")
